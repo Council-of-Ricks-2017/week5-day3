@@ -1,6 +1,6 @@
 # Functions
 
-###### Front-end Development: JavaScript: Exercises: Conditionals
+###### Front-end Development: JavaScript: Exercises: Functions
 
 ### jsForeignExchange
 
