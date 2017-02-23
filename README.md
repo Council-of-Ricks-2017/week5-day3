@@ -1,12 +1,10 @@
-# Week 5
+# Week 5, Day 3
 
-###### Take note
+###### Front-end Development: JavaScript
 
-Monday was Presidents' Day so there were only four days of class so there are only four day_* repositories in week_5.
+### Exercises
 
-### Curriculum
-
-- Tuesday: HyperText Markup Language (HTML)
-- Wednesday: Cascading Style Sheets (CSS)
-- Thursday: JavaScript (JS)
-- Friday: JavaScript (JS)
+- Variables
+- Functions
+- Conditionals
+- Loops
