@@ -6,7 +6,7 @@ Monday was Presidents' Day so there were only four days of class so there are on
 
 ### Curriculum
 
-Tuesday: HyperText Markup Language (HTML)
-Wednesday: Cascading Style Sheets (CSS)
-Thursday: JavaScript (JS)
-Friday: JavaScript (JS)
+- Tuesday: HyperText Markup Language (HTML)
+- Wednesday: Cascading Style Sheets (CSS)
+- Thursday: JavaScript (JS)
+- Friday: JavaScript (JS)
